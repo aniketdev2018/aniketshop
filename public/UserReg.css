@@ -1,0 +1,18 @@
+.reg-head
+{
+	font-size: 30px;
+	color:rgb(0, 0, 102);
+}
+input
+{
+	width: 80%;
+}
+body
+{
+	background-image: linear-gradient(to right, gray,white,white,white,white,white,white,white,white,white,white,white,white,white,gray);
+}
+.forms
+{
+	border:1px solid black;
+	padding: 5% 2%
+}
